@@ -1,1 +1,1 @@
-*.txt linguist-language=SQL
+*.sql linguist-detectable=true
